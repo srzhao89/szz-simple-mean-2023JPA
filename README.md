@@ -1,0 +1,1 @@
+# szz-simple-mean-2023JPA
