@@ -14,9 +14,8 @@ The authors (Leopold, Simar, Valentin Zelenyuk, and Shirong Zhao) retain full ri
 
 4. In any report, paper, or publication referencing the code, you are required to acknowledge its ownership by including the following citation:
 
-Simar, L., Zelenyuk, V., & Zhao, S. (2023). Further improvements of finite sample approximation of central limit theorems for envelopment estimators. Journal of Productivity Analysis, 59(2), 189-194.
+[Simar, L., Zelenyuk, V., & Zhao, S. (2023). Further improvements of finite sample approximation of central limit theorems for envelopment estimators. Journal of Productivity Analysis, 59(2), 189-194.](https://link.springer.com/article/10.1007/s11123-023-00661-8)
 
 
 6. The programming code used in this paper involves some earlier codes from Paul Wilson. All rights reserved. It is free for academic use only with adequate citation and acknowledgments. For any other use, contact Shirong Zhao: shironz@163.com.
 
-[GitHub Pages](https://pages.github.com/).
