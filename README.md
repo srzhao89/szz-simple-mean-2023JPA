@@ -18,3 +18,5 @@ Simar, L., Zelenyuk, V., & Zhao, S. (2023). Further improvements of finite sampl
 
 
 6. The programming code used in this paper involves some earlier codes from Paul Wilson. All rights reserved. It is free for academic use only with adequate citation and acknowledgments. For any other use, contact Shirong Zhao: shironz@163.com.
+
+[GitHub Pages](https://pages.github.com/).
