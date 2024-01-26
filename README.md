@@ -1,6 +1,6 @@
 # ReadMe
 
-The authors (Leopold, Simar, Valentin Zelenyuk, and Shirong Zhao) retain full rights to this code. Possession and utilization of the code are allowed only upon agreement with the specified terms and conditions.
+The authors (**Leopold, Simar, Valentin Zelenyuk, and Shirong Zhao**) retain full rights to this code. Possession and utilization of the code are allowed only upon agreement with the specified terms and conditions.
 
 
 1. Academic users are granted the freedom to use this code for academic purposes. Nonetheless, the authors retain full rights to the code.
